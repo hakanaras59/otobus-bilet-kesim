@@ -1,0 +1,69 @@
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.exe
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.pdb
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form1.resources
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Properties.Resources.resources
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.exe
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.pdb
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form2.resources
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form3.resources
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.exe.config
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.exe.config
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.exe
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.pdb
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\sefer.accdb
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.exe
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.pdb
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form1.resources
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form2.resources
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form3.resources
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Properties.Resources.resources
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\Database9.accdb
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication29\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\Database10.accdb
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form5.resources
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form6.resources
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form7.resources
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\Database10.accdb
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\Koltuklar.accdb
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\satilankoltuk.accdb
+C:\Users\karizmatikfurkan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\Yedek - satilankoltuk.accdb
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.exe.config
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.exe
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.pdb
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\Database10.accdb
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\Koltuklar.accdb
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\satilankoltuk.accdb
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\Yedek - satilankoltuk.accdb
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.exe
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.csprojResolveAssemblyReference.cache
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form1.resources
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form2.resources
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form3.resources
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form5.resources
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form6.resources
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form7.resources
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Properties.Resources.resources
+D:\Yeni klasör(1)\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.csproj.GenerateResource.Cache
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.exe.config
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.exe
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.pdb
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\Database10.accdb
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\Koltuklar.accdb
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\satilankoltuk.accdb
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\Yedek - satilankoltuk.accdb
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.exe
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.pdb
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.csprojResolveAssemblyReference.cache
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form1.resources
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form2.resources
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form3.resources
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form5.resources
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form6.resources
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form7.resources
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Properties.Resources.resources
+D:\programlar\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.csproj.GenerateResource.Cache
